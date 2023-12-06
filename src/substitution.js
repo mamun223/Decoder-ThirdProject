@@ -7,7 +7,7 @@ const substitutionModule = (function () {
   
 
   function substitution(input, alphabet, encode = true) {
-    // your solution code here
+    
     const alphabets = "abcdefghijklmnopqrstuvwxyz";
     const tempArray = [];
     if (!alphabet || alphabet.length !== 26) return false;
