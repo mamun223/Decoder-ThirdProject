@@ -4,7 +4,7 @@
 // of the anonymous function on line 6
 
 const substitutionModule = (function () {
-  
+  // Just for pull request practice
 
   function substitution(input, alphabet, encode = true) {
     
